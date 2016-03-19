@@ -1,4 +1,5 @@
 # gitskills
 Creating a new branch is quick & simple.
 checkout
-swsws
+swsw
+swswws
